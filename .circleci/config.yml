@@ -1,7 +1,7 @@
 version: 2.1
 commands:
   install-tfnotify:
-    description: tfnotifyのインストール
+    description:  tfnotifyのインストール
     steps:
       - run:
           command: |
